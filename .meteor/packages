@@ -1,0 +1,7 @@
+# see http://docs.vulcanjs.org/packages
+
+vulcan:core@1.11.2
+vulcan:i18n@1.12.3
+############ Your Packages ############
+
+ dalong-demo
